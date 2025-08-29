@@ -23,8 +23,8 @@ This section introduces AUVs, their applications, and the mathematical models ne
 ## 🔧 Section 2: Basics of Robust and Sliding Mode Control
 Learn the foundations of robust control and dive into the core concepts of Sliding Mode Control.
 
-| # | Title | Duration | Goal |
-|---|-------|----------|------|
+| # | Title | Duration |
+|---|-------|----------|
 | 4 | Why Robust Control? From PID to Sliding Mode | Motivation for using robust control  |
 | 5 | Sliding Mode Control - Concept and Intuition | Explain the idea of sliding surface and control logic  |
 | 6 | Designing the Sliding Surface | How to choose the sliding manifold  |
@@ -36,8 +36,8 @@ Learn the foundations of robust control and dive into the core concepts of Slidi
 ## 🚧 Section 3: Handling Real-World Problems in SMC
 Address practical challenges in SMC and explore solutions for real-world AUV control.
 
-| # | Title | Duration | Goal |
-|---|-------|----------|------|
+| # | Title | Duration | 
+|---|-------|----------|
 | 9 | The Chattering Problem in SMC | Describe why chattering happens  |
 | 10 | How to Reduce Chattering: Boundary Layer, Saturation | Soft switching methods  |
 | 11 | Second-Order Sliding Mode: Super-Twisting Algorithm | Intro to higher-order SMC  |
@@ -48,8 +48,8 @@ Address practical challenges in SMC and explore solutions for real-world AUV con
 ## 🧠 Section 4: Advanced Topics and Real-World Usage
 Explore advanced SMC techniques and their application to complex AUV missions.
 
-| # | Title | Duration | Goal |
-|---|-------|----------|------|
+| # | Title | Duration |
+|---|-------|----------|
 | 13 | Path Following using SMC | Use SMC to follow a predefined trajectory  |
 | 14 | Adaptive SMC for Uncertain Dynamics | Deal with unknown parameters  |
 | 15 | Disturbance Observer-Based SMC | Estimate & cancel external disturbances  |
