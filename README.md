@@ -69,9 +69,7 @@ To get the most out of this playlist:
 ## 📚 Resources
 - MATLAB Code: Available in the description of each implementation-focused episode.
 - GitHub Repository: [https://github.com/safa-bazrafshan/AUV-Sliding-Mode-Control-Tutorials]
-
-- 
- Further Reading: Check the video descriptions for recommended papers and resources on AUVs and SMC.
+- Further Reading: Check the video descriptions for recommended papers and resources on AUVs and SMC.
 
 ---
 
