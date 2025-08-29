@@ -1,6 +1,6 @@
 # Autonomous Underwater Vehicle (AUV) Sliding Mode Control Playlist
 
-Welcome to the Educational Video Playlist on Sliding Mode Control (SMC) for Autonomous Underwater Vehicles (AUVs)! This 17-episode YouTube series, authored by Safa Bazrafshan ([safa.bazrafshan@gmail.com](mailto:safa.bazrafshan@gmail.com)), takes you on a journey from the fundamentals of AUVs to advanced control techniques using Sliding Mode Control. Each episode includes theoretical explanations, practical insights, and MATLAB simulations to help you understand and implement SMC for AUVs.
+Welcome to the Educational Video Playlist on Sliding Mode Control (SMC) for Autonomous Underwater Vehicles (AUVs)! This 17-episode YouTube series ([https://www.youtube.com/playlist?list=PL8WHfIxTWTXPCOnYBTzqLfaJv9sXs3u9o]), authored by Safa Bazrafshan ([safa.bazrafshan@gmail.com](mailto:safa.bazrafshan@gmail.com)), takes you on a journey from the fundamentals of AUVs to advanced control techniques using Sliding Mode Control. Each episode includes theoretical explanations, practical insights, and MATLAB simulations to help you understand and implement SMC for AUVs.
 
 ---
 
