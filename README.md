@@ -14,9 +14,9 @@ This section introduces AUVs, their applications, and the mathematical models ne
 
 | # | Title | Duration | Goal |
 |---|-------|----------|------|
-| 1 | What is an AUV? Applications and Challenges | ~6 min | Introduce AUVs and their use cases  |
-| 2 | Kinematics and Dynamics of AUVs | ~10 min | Explain 6-DOF motion and modeling basics  |
-| 3 | Simplified State-Space Model of an AUV | ~8 min | Create a manageable dynamic model for control  |
+| 1 | What is an AUV? Applications and Challenges | Introduce AUVs and their use cases  |
+| 2 | Kinematics and Dynamics of AUVs | Explain 6-DOF motion and modeling basics  |
+| 3 | Simplified State-Space Model of an AUV | Create a manageable dynamic model for control  |
 
 ---
 
@@ -25,11 +25,11 @@ Learn the foundations of robust control and dive into the core concepts of Slidi
 
 | # | Title | Duration | Goal |
 |---|-------|----------|------|
-| 4 | Why Robust Control? From PID to Sliding Mode | ~7 min | Motivation for using robust control  |
-| 5 | Sliding Mode Control - Concept and Intuition | ~9 min | Explain the idea of sliding surface and control logic  |
-| 6 | Designing the Sliding Surface | ~8 min | How to choose the sliding manifold  |
-| 7 | Deriving a Basic SMC Law | ~10 min | Design step-by-step + example  |
-| 8 | Implementing Basic SMC in MATLAB | ~12 min | Live coding with explanations  |
+| 4 | Why Robust Control? From PID to Sliding Mode | Motivation for using robust control  |
+| 5 | Sliding Mode Control - Concept and Intuition | Explain the idea of sliding surface and control logic  |
+| 6 | Designing the Sliding Surface | How to choose the sliding manifold  |
+| 7 | Deriving a Basic SMC Law | Design step-by-step + example  |
+| 8 | Implementing Basic SMC in MATLAB | Live coding with explanations  |
 
 ---
 
@@ -38,10 +38,10 @@ Address practical challenges in SMC and explore solutions for real-world AUV con
 
 | # | Title | Duration | Goal |
 |---|-------|----------|------|
-| 9 | The Chattering Problem in SMC | ~6 min | Describe why chattering happens  |
-| 10 | How to Reduce Chattering: Boundary Layer, Saturation | ~9 min | Soft switching methods  |
-| 11 | Second-Order Sliding Mode: Super-Twisting Algorithm | ~10 min | Intro to higher-order SMC  |
-| 12 | Comparison of SMC Variants in Simulation | ~12 min | Test basic vs improved methods on AUV  |
+| 9 | The Chattering Problem in SMC | Describe why chattering happens  |
+| 10 | How to Reduce Chattering: Boundary Layer, Saturation | Soft switching methods  |
+| 11 | Second-Order Sliding Mode: Super-Twisting Algorithm | Intro to higher-order SMC  |
+| 12 | Comparison of SMC Variants in Simulation | Test basic vs improved methods on AUV  |
 
 ---
 
@@ -50,11 +50,11 @@ Explore advanced SMC techniques and their application to complex AUV missions.
 
 | # | Title | Duration | Goal |
 |---|-------|----------|------|
-| 13 | Path Following using SMC | ~12 min | Use SMC to follow a predefined trajectory  |
-| 14 | Adaptive SMC for Uncertain Dynamics | ~10 min | Deal with unknown parameters  |
-| 15 | Disturbance Observer-Based SMC | ~10 min | Estimate & cancel external disturbances  |
-| 16 | MATLAB Simulation of Full Mission with Disturbances | ~12 min | Full test case from AUV path to control  |
-| 17 | Bonus Episode: Full SMC Controller Integration for AUV | ~12 min | Disturbance Observer & Infinity Path Mission  |
+| 13 | Path Following using SMC | Use SMC to follow a predefined trajectory  |
+| 14 | Adaptive SMC for Uncertain Dynamics | Deal with unknown parameters  |
+| 15 | Disturbance Observer-Based SMC | Estimate & cancel external disturbances  |
+| 16 | MATLAB Simulation of Full Mission with Disturbances | Full test case from AUV path to control  |
+| 17 | Bonus Episode: Full SMC Controller Integration for AUV | Disturbance Observer & Infinity Path Mission  |
 
 ---
 
