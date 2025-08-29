@@ -12,8 +12,8 @@ This playlist consists of 17 episodes divided into 4 sections, covering everythi
 ## 📦 Section 1: Introduction to AUVs and Modeling
 This section introduces AUVs, their applications, and the mathematical models needed for control.
 
-| # | Title | Duration | Goal |
-|---|-------|----------|------|
+| # | Title | Duration |
+|---|-------|----------|
 | 1 | What is an AUV? Applications and Challenges | Introduce AUVs and their use cases  |
 | 2 | Kinematics and Dynamics of AUVs | Explain 6-DOF motion and modeling basics  |
 | 3 | Simplified State-Space Model of an AUV | Create a manageable dynamic model for control  |
